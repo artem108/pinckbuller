@@ -1,0 +1,11 @@
+@media all and (max-width:767px){
+
+
+  header {
+    height: 800px;
+  }
+
+.head-menu {
+  background-position: top left;
+}
+}
