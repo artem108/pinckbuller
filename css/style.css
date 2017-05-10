@@ -5,21 +5,16 @@
   margin: 0;
 }
 /*940*/
-
-
-
-
 .wrapper {
+  margin: 0 auto;
   width: 2400px;
 font-family: 'Open Sans Condensed', sans-serif;
 }
-
 header {
   position: relative;
   height: 842px;
   background-image: url(../img/background.jpg);
 }
-
 .head-menu {
   padding-top: 66px;
   margin-left: 713px;
@@ -28,17 +23,13 @@ header {
   background-position: center left;;
   background-repeat: no-repeat;
 }
-
 .menu {
   margin-left: 327px;
 }
-
 .menu li {
   list-style: none;
   display: inline;
-
 }
-
 .menu a {
   text-decoration: none;
   text-transform: uppercase;
@@ -47,11 +38,9 @@ header {
   color: #fff;
   text-shadow: 2px 2px #8b8a8a;
 }
-
 .menu a:hover {
   border-bottom: 1px solid #edbfff;
 }
-
 .slide {
   margin-top: 110px;
   width: 2400px;
@@ -60,31 +49,25 @@ header {
   background-image: url(../img/iphone.png);
   background-repeat: no-repeat;
   background-position: 1345px;
-
 }
-
 .text {
   padding-top: 72px;
   margin-left: 730px;
   width: 500px;
 }
-
 .slide-text1 {
   font-weight: bold;
   font-size: 50px;
   color: #fefefe;
 }
-
 .slide-text2 {
   font-size: 27px;
   color: #edbfff;
 }
-
 .slide-text3 {
   font-size: 20px;
   color: #f6f6f6;
 }
-
 /*NAV*/
 .nav {
   position: absolute;
@@ -92,7 +75,6 @@ header {
   width: 2400px;
   background: linear-gradient(to top, #322539, #745083);
 }
-
 .nav1 {
   width: 100%;
   height: 100%;
@@ -100,7 +82,6 @@ header {
   background-repeat: no-repeat;
   background-position: 716px 77px;
 }
-
 .box1 {
   position: absolute;
   margin-left: 778px;
@@ -117,7 +98,6 @@ header {
   font-size: 26px;
   color: #fff;
 }
-
 .box1 a {
   float: right;
   padding-top: 25px;
@@ -127,23 +107,18 @@ header {
   font-size: 20px;
   text-shadow: 1px 1px #0f1518;
 }
-
 .box1 a:hover {
   text-shadow: 3px 3px 3px #fff;
 }
-
 #box2 {
   clear: both;
   margin-left: 1120px;
 }
-
 #box3 {
   clear: both;
   margin-left: 1457px;
 }
-
 /*MAIN*/
-
 main {
   margin-top: 340px;
   height: 606px;
@@ -153,7 +128,6 @@ main {
   background-repeat: no-repeat;
   background-position: 794px 500px;
 }
-
 .test {
   float: left;
   margin-top:120px;
@@ -162,7 +136,6 @@ main {
   height: 236px;
   background-color: #fff;
 }
-
 .test11 {
   clear: both;
   float: left;
@@ -172,7 +145,6 @@ main {
   background-repeat: no-repeat;
   background-position: center left;
 }
-
 .test1 {
   clear: both;
   float: left;
@@ -180,17 +152,13 @@ main {
   text-transform: uppercase;
   color: #454545;
   font-size: 30px;
-
 }
-
 .test2 {
-
   margin-left: 175px;
   text-transform: uppercase;
   color: #edbfff;
   font-size: 30px;
 }
-
 .test3 {
   margin-left: 58px;
   height: 156px;
@@ -200,7 +168,6 @@ main {
   line-height: 25px;
   text
 }
-
 .circle {
   padding-top: 130px;
   margin-left: 1219px;
@@ -210,35 +177,28 @@ main {
   background-repeat: no-repeat;
   background-position: left 175px;
 }
-
 .recent {
   font-size: 26px;
   text-transform: uppercase;
   color: #000;
 }
-
 .nunc {
   margin-top: 12px;
   margin-left: 72px;
 }
-
 .nunc h1{
   font-size: 16px;
 }
-
 .nunc {
   font-size: 14px;
   color: #454545;
 }
-
 .nunc1 {
   margin-top: 10px;
 }
-
 #nunc {
   margin-top: 22px;
 }
-
 .read{
   margin-top: 10px;
 }
@@ -249,43 +209,36 @@ main {
   font-size: 14px;
   color: #454545;
 }
-
 /*ASIDE*/
-
 .pigbul {
   height: 400px;
   width: 100%;
   background-color: #ececec;
 }
-
 .pigbul1 {
   padding-top: 100px;
   margin-left: 716px;
   width: 1000px;
   height: 200px;
 }
-
 .pig1 {
   float: left;
 width: 277px;
 font-size: 15px;
 color: #787878;
 }
-
 .pig {
   font-size: 45px;
   text-transform: uppercase;
   font-weight: bold;
   color: #454545;
 }
-
 .pigb {
   font-size: 45px;
   text-transform: uppercase;
   color: #b9b9b9;
   font-weight: bold;
 }
-
 .italic {
   margin-top: 5px;
   font-size: 14px;
@@ -293,7 +246,6 @@ color: #787878;
   color: #c5c5c5;
   margin-bottom: 10px;
 }
-
 .pig2{
  display: inline-block;
  margin-top: 10px;
@@ -302,7 +254,6 @@ color: #787878;
   color: #787878;
   font-size: 15px;
 }
-
 .small {
   font-size: 26px;
   text-transform: uppercase;
@@ -310,7 +261,6 @@ color: #787878;
   font-weight: bold;
   margin-bottom: 30px;
 }
-
 .pig3 {
   display: inline-block;
   margin-top: 10px;
@@ -319,7 +269,6 @@ color: #787878;
    color: #787878;
    font-size: 15px;
 }
-
 .small1 {
   font-size: 26px;
   text-transform: uppercase;
@@ -327,26 +276,20 @@ color: #787878;
   font-weight: bold;
   margin-bottom: 30px;
 }
-
 /*FOOTER*/
-
 footer {
   height: 132px;
   width: 100%;
   background-image: url(../img/footer.jpg);
   background-repeat: no-repeat;
 }
-
 .footer-menu {
   padding-top: 30px;
   padding-left: 800px;
 }
-
-
 .footer-menu li {
   list-style: none;
   display: inline;
-
 }
 
 .footer-menu a {
@@ -357,7 +300,6 @@ footer {
   color: #fff;
   text-shadow: 2px 2px #8b8a8a;
 }
-
 .footer-menu a:hover {
   border-bottom: 1px solid #edbfff;
 }
